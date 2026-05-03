@@ -1,0 +1,19 @@
+<doctype html>
+<html>
+<head>
+<title/>نموزج  ادخال البيانات<title>
+<head/>
+<body>
+<h2/> ادخل بيانات العميل<h2>
+"الخادم_هنا_from action="URL><"method="post
+<label/>:الاسم<"label for="name>
+input type="text" id="name>
+"اسمك"=name="name" placeholder
+<required><br><br
+
+/>:العنوان<"label for="address>
+<label
+input type="text">
+id="address" name="address"
+<required><br><br "عنوانك"=placeholder
+<"label for="phone">
